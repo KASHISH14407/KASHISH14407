@@ -5,7 +5,6 @@ I have a keen interest in solving real-world problems using data-driven approach
 
 Currently working on hands-on projects involving:
 ✅ Python-based ML models
-✅ Web development using HTML/CSS/JavaScript
 ✅ AI-powered automation
 ✅ Research in neural networks and data visualization
 
