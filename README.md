@@ -1,7 +1,7 @@
 
 🚀 I'm a passionate and driven B.Tech student specializing in Computer Science with Artificial Intelligence and Machine Learning at Shri Vishwakarma Skill University (2023–2027).
 
-I have a keen interest in solving real-world problems using data-driven approaches and intelligent systems. My academic journey so far has introduced me to core concepts like Machine Learning, Data Structures, Deep Learning, Operating Systems, Computer Networks, and more.
+I have a keen interest in solving real-world problems using data-driven approaches and intelligent systems. My academic journey so far has introduced me to core concepts like Machine Learning, Data Structures,Data analysis, Deep Learning, Operating Systems, Computer Networks, and more.
 
 Currently working on hands-on projects involving:
 ✅ Python-based ML models
